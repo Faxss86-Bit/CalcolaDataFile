@@ -1,0 +1,11 @@
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Pubblicata\Calcola Data File.exe
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Pubblicata\Calcola Data File.dll
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Pubblicata\Calcola Data File.deps.json
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Pubblicata\Calcola Data File.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Pubblicata\Calcola Data File.pdb
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Pubblicata\System.DirectoryServices.AccountManagement.dll
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Pubblicata\System.DirectoryServices.Protocols.dll
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Pubblicata\runtimes\win\lib\net8.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Pubblicata\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Pubblicata\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Pubblicata\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll

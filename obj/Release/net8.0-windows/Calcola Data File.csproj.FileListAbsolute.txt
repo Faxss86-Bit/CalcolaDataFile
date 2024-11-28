@@ -1,0 +1,43 @@
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\bin\Release\net8.0-windows\Calcola Data File.exe
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\bin\Release\net8.0-windows\Calcola Data File.deps.json
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\bin\Release\net8.0-windows\Calcola Data File.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\bin\Release\net8.0-windows\Calcola Data File.dll
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\bin\Release\net8.0-windows\Calcola Data File.pdb
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola_Data_File.DataFile.resources
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola_Data_File.Form1.resources
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.csproj.GenerateResource.cache
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.dll
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\refint\Calcola Data File.dll
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.pdb
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Desktop\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\ref\Calcola Data File.dll
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\bin\Release\net8.0-windows\Calcola Data File.exe
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\bin\Release\net8.0-windows\Calcola Data File.deps.json
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\bin\Release\net8.0-windows\Calcola Data File.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\bin\Release\net8.0-windows\Calcola Data File.dll
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\bin\Release\net8.0-windows\Calcola Data File.pdb
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\bin\Release\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\bin\Release\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\bin\Release\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\bin\Release\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola_Data_File.AD_DC.resources
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola_Data_File.DataFile.resources
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola_Data_File.Menu.resources
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.csproj.GenerateResource.cache
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola .D73BE4C3.Up2Date
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.dll
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\refint\Calcola Data File.dll
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.pdb
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\Calcola Data File.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Desktop\GoogleSync\Progetti C#\Calcola Data File\Calcola Data File\obj\Release\net8.0-windows\ref\Calcola Data File.dll
